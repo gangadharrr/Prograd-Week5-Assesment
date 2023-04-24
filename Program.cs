@@ -22,6 +22,7 @@ namespace Prograd__Week5_Assesment
      */
     internal class Program
     {
+        
         static bool PasswordValidation(string Password)
         {
             bool IsPasswordValid = true;
